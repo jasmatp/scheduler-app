@@ -56,38 +56,7 @@ A Calendly-like scheduling application built using the MERN stack that allows us
 * Invalid booking links display a 404 page
 * User-friendly toast notifications
 * Client-side and server-side validation
-
----
-
-## Project Structure
-
-### Frontend
-
-```text
-src/
-├── api/
-├── components/
-│   ├── availability/
-│   ├── booking/
-│   └── common/
-├── pages/
-├── routes/
-├── types/
-└── App.tsx
-```
-
-### Backend
-
-```text
-src/
-├── controllers/
-├── middleware/
-├── models/
-├── routes/
-├── utils/
-└── server.ts
-```
-
+* 
 ---
 
 ## Installation
@@ -246,16 +215,4 @@ POST /api/booking/book
 * Reusable React components
 * MongoDB indexing support
 * Efficient slot filtering for bookings
-
----
-
-## Future Improvements
-
-* Calendar UI component
-* Time zone support
-* Email notifications
-* Booking cancellation
-* Pagination and analytics
-* Availability editing and deletion
-
 ---
