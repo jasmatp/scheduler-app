@@ -1,4 +1,4 @@
-# MERN Scheduler Assignment
+# MERN Scheduler
 
 A Calendly-like scheduling application built using the MERN stack that allows users to create availability slots, generate booking links, and accept bookings from public visitors.
 
